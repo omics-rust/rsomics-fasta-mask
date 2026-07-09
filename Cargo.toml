@@ -1,6 +1,6 @@
 [package]
 name = "rsomics-fasta-mask"
-version = "0.1.0"
+version = "0.1.1"
 description = "Mask FASTA sequences by BED regions — soft-mask (lowercase) or hard-mask (N)"
 edition = "2024"
 rust-version = "1.91"
